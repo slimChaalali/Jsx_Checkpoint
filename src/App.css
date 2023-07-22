@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.Cardd{
+  margin-left: 40%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  height:90%;
+}
+
+h1{
+  text-align: center;
+  padding-bottom: 5%;
+}
+span{
+  color:rgb(94, 177, 38);
+}
+h1:hover{
+  cursor: pointer;
+  font-size: 50px;
+}
